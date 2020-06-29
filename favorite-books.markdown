@@ -12,5 +12,5 @@ Sal Khan's *The One World Schoolhouse: Education Reimagined*
 Barbara Oakley's *A Mind for Numbers: How to Excel at Math and Science*
 
 My favorite blogs:
-* https://www.scotthyoung.com/blog/
-* https://www.calnewport.com/blog/
+* [Scott H. Young's Blog](https://www.scotthyoung.com/blog/)
+* [Cal Newport's Blog](https://www.calnewport.com/blog/)
