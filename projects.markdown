@@ -13,4 +13,4 @@ group being me, Marcel Burgunder, Emma Broback, and Sam Briante. I did most of t
 writing. Marcel did some coding and lots of writing. Read our results [here][Modeling COVID Report].
 
 [Modeling COVID]:        https://github.com/bwolfson97/UCLA-Networks-Final-Project
-[Modeling COVID Report]: ../files/modeling_covid.pdf
+[Modeling COVID Report]: {{ site.url }}/assets/modeling_covid.pdf
